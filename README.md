@@ -23,7 +23,7 @@ The system streamlines IT inventory management, operational workflows, alignment
 
 ## Documentation & Assets
 
-![AOT Summer Internship Poster](./poster.png)
+![AOT Summer Internship Poster](./poster.jpg)
 
 - **Documentation Package:** [Download Technical Report & Assets (ZIP)](./AOT_Internship_Documentation.zip) — Complete package containing the 18-page technical report detailing project implementation phases, low-code architecture, problem decomposition, and future system recommendations.
 
