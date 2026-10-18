@@ -23,7 +23,14 @@ The system streamlines IT inventory management, operational workflows, alignment
 
 ## Documentation & Project Poster
 
-![AOT Summer Internship Poster](./summer_Internship_Poster.pdf)
+<p align="center">
+  <object data="./summer_Internship_Poster.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support embedded PDFs. <a href="./summer_Internship_Poster.pdf">Click here to download/view the poster.</a></p>
+  </object>
+</p>
+
+> **Note:** If you export the poster PDF to PNG/JPG (e.g., `poster.png`), you can also render it natively on all devices using standard Markdown:  
+> `![AOT Summer Internship Poster](./poster.png)`
 
 - **Summer Internship Report:** [View Full Technical Report (PDF)](./Summer%20Internship%20Report.pdf) — Comprehensive 18-page documentation detailing department operations[cite: 7], project implementation phases[cite: 7], system features[cite: 11, 13], and future recommendations[cite: 18].
 - **Summer Internship Poster:** [View Poster Document (PDF)](./summer_Internship_Poster.pdf) — Executive overview poster summarizing key responsibilities[cite: 19], low-code architecture achievements[cite: 19], and technical problem-solving workflows[cite: 19].
