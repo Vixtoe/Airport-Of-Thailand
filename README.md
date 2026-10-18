@@ -25,6 +25,30 @@ The system streamlines IT inventory management, operational workflows, alignment
 
 ![AOT Summer Internship Poster](./poster.jpg)
 
+### Full Technical Report
+<details>
+  <summary><b>Click to expand full 18-page Internship Report</b></summary>
+  <br>
+  <img src="./report/Summer%20Internship%20Report_page-0001.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0002.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0003.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0004.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0005.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0006.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0007.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0008.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0009.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0010.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0011.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0012.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0013.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0014.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0015.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0016.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0017.jpg" width="100%">
+  <img src="./report/Summer%20Internship%20Report_page-0018.jpg" width="100%">
+</details>
+
 - **Documentation Package:** [Download Technical Report & Assets (ZIP)](./report.zip) — Complete package containing the 18-page technical report detailing project implementation phases, low-code architecture, problem decomposition, and future system recommendations.
 
 ---
